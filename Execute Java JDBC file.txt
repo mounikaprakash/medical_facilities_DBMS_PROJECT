@@ -1,0 +1,2 @@
+javac -classpath ojdbc8.jar JDBC.java
+java -classpath ojdbc8.jar JDBC.java
